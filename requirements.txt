@@ -1,2 +1,2 @@
-- aws-cli
-
+aws-cli
+terraform
